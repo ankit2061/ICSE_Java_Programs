@@ -1,0 +1,20 @@
+Name: RAMESH
+Class: 11
+Roll No.: 26
+Stream: COMMERCE
+Name: VUPESH
+Class: 12
+Roll No.: 46
+Stream: HUMANITIES
+Name: RAKESH
+Class: 11
+Roll No.: 23
+Stream: COMMERCE
+Name: ARJUN
+Class: 12
+Roll No.: 35
+Stream: SCIENCE
+Name: ANKIT
+Class: 11
+Roll No.: 10
+Stream: SCIENCE
